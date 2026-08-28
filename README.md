@@ -31,8 +31,8 @@ I am applying to fully-funded PhD programs (Fall 2027) in environmental and land
 | Project | What it does |
 |---|---|
 | [academic-homepage](https://github.com/hazelxu-2003/academic-homepage) | Personal academic homepage (this site) |
-| [xhs-knowledge-base](https://github.com/hazelxu-2003/xhs-knowledge-base) | 小红书收藏分类系统：972 行规则文件把笔记分到 23 个类别 |
-| [research-workbench-online](https://github.com/hazelxu-2003/research-workbench-online) | 文献六阶段工作流（构思 → 搜索 → 导入 → 细读 → Obsidian → gap 分析） |
+| [xhs-knowledge-base](https://github.com/hazelxu-2003/xhs-knowledge-base) | Xiaohongshu (小红书) note classifier: a 972-line rule file maps notes into 23 categories |
+| [research-workbench-online](https://github.com/hazelxu-2003/research-workbench-online) | Six-gate literature pipeline: idea shaping → deep search → import → close-read → Obsidian → gap analysis |
 
 ---
 
