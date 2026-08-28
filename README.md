@@ -28,17 +28,11 @@ I am applying to fully-funded PhD programs (Fall 2027) in environmental and land
 
 ## Selected Work
 
-<p align="center">
-  <a href="https://github.com/hazelxu-2003/academic-homepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazelxu-2003&repo=academic-homepage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4a562&text_color=e6edf3&icon_color=2C4768" alt="academic-homepage"/>
-  </a>
-  <a href="https://github.com/hazelxu-2003/xhs-knowledge-base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazelxu-2003&repo=xhs-knowledge-base&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4a562&text_color=e6edf3&icon_color=2C4768" alt="xhs-knowledge-base"/>
-  </a>
-  <a href="https://github.com/hazelxu-2003/research-workbench-online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazelxu-2003&repo=research-workbench-online&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4a562&text_color=e6edf3&icon_color=2C4768" alt="research-workbench-online"/>
-  </a>
-</p>
+| Project | What it does |
+|---|---|
+| [academic-homepage](https://github.com/hazelxu-2003/academic-homepage) | Personal academic homepage (this site) |
+| [xhs-knowledge-base](https://github.com/hazelxu-2003/xhs-knowledge-base) | 小红书收藏分类系统：972 行规则文件把笔记分到 23 个类别 |
+| [research-workbench-online](https://github.com/hazelxu-2003/research-workbench-online) | 文献六阶段工作流（构思 → 搜索 → 导入 → 细读 → Obsidian → gap 分析） |
 
 ---
 
